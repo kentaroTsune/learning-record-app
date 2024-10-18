@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.record-text {
+  text-align: left;
+}
+
+input {
+  background-color: #fff;
+  color: black;
+}
